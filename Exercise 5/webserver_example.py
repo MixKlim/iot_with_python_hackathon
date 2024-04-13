@@ -11,8 +11,8 @@ from machine import Pin
 led = Pin("LED", Pin.OUT)
 
 # Wi-Fi credentials
-ssid = "PLACEHOLDER"
-password = "PLACEHOLDEr"
+ssid = "beyond Members"
+password = "beyondwifi"
 
 
 # HTML template for the webpage
